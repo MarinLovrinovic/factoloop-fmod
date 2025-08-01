@@ -522,7 +522,7 @@ https://www.fmod.com/docs/studio/working-with-instruments.html#delay-and-quantiz
 	</object>
 	<object class="AutomationPoint" id="{1ba52d06-a54f-40e5-8f11-4e24e29f91f7}">
 		<property name="position">
-			<value>2.2641509433962264</value>
+			<value>2.2641509433962308</value>
 		</property>
 		<property name="value">
 			<value>1</value>
